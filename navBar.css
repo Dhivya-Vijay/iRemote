@@ -1,0 +1,144 @@
+.navBarContainer{
+    background-color:#000;
+}
+.navBar{
+    /* background-color: darkcyan; */
+}
+/* ROW-1 */
+
+.topBody {
+    /* background-color: #3c89a2; */
+}
+.contactLink {
+    /* background-color: #6a7ff4; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 1rem 0rem; */
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    margin-right: 6rem;
+    font-size: 14.2px;
+    width: 100%;
+}
+
+.mobile {
+    /* background-color: palevioletred; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;  
+}
+
+.mail {
+    /* background-color: palevioletred; */
+        display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 0.8rem;   
+}
+
+.place {
+    /* background-color: palevioletred; */
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 0.8rem;
+    padding-left: 0.7rem;
+}
+
+.vl {
+    border-right: 1px solid #fff;
+    padding: 0 1rem 0 1rem;
+}
+
+.onlineLink {
+    /* background-color: #c2de95; */
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.icon {
+    /* background-color: rgb(150, 208, 42); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    gap: 0.4rem;
+}
+
+.onlineLink li {
+    /* background-color: #a5aaac; */
+    list-style-type: none;
+}
+
+.onlineLink li a {
+    text-decoration: none;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    color: #000;
+    font-weight: 400;
+}
+
+/* ROW-2 */
+.bottomBody {
+    /* background-color: #d36395; */
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    padding-top: 2rem;
+}
+.logo {
+    /* background-color: #42055c; */
+    padding: 1.5rem 0rem;   
+}
+.logo img {
+    /* background-color: #1eb332; */
+    height: 7rem;
+    width: auto;
+    margin-left: 8rem;
+}
+.navLinks {
+    /* background-color: #cd13a4; */
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    gap: 4rem;
+    padding-top: 2rem;
+}
+.navLinks li {
+    /* background-color: #caec8f; */
+    list-style-type: none;
+}
+.navLinks li a {
+    /* background-color: #15a9f3; */
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji; 
+}
+
+
+
+
+
+
+
+
+   
+
+
+
+
+/* font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji; */

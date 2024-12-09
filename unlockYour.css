@@ -1,0 +1,51 @@
+.unlockYourContainer {
+    background-color:white;
+}
+.unlockYour{
+   
+}
+
+/* ROW-1 */
+.unlockBody{
+    
+}
+.headerTitle{
+   
+}
+.headerTitle h1{
+    font-size: 4.8rem;
+    font-weight:400;
+    margin-top: 3rem;
+}
+.aboutUnlock{
+    /* background-color: rgb(2, 15, 11); */
+}
+.aboutUnlock p{
+    font-size:x-large;
+    text-align: center;
+}
+
+/* ROW-2 */
+.cardBody{
+    /* background-color: blue; */
+    padding:6rem;
+    margin-top:2rem;
+    margin-left:9rem;
+}
+.cardPics{    
+     border: 3px solid red;
+}
+.cardPics h3{
+    font-size: 4rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: rgb(54, 69, 79);
+    /* font-family: 'Roboto Condensed', sans-serif;  */
+}
+.cardPics figure{
+}
+.cardPics img{
+    padding:1rem;
+    width: 100%;
+    aspect-ratio:4/3;
+}
